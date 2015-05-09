@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: f2eb42b8f36a4d6428df3a32305af94b
+timeCreated: 1429419490
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BackLight
+    100004: Box01
+    100006: Box01_Detached
+    100008: Box01_Detached 1
+    100010: Box01_Detached 2
+    100012: Box01_Detached 3
+    100014: Box01_Detached_Detached
+    100016: Box01_Detached_Detached 1
+    100018: Box01_Detached_Detached 2
+    100020: Box01_Detached_Detached 3
+    100022: CameraPreset
+    100024: FillLight
+    100026: KeyLight
+    100028: LightPreset
+    100030: Object04
+    100032: Object04_MeshPart0
+    100034: Object04_MeshPart1
+    100036: Object04_MeshPart2
+    100038: Object04_MeshPart3
+    100040: Object04_MeshPart4
+    100042: Rectangle1
+    100044: Rectangle19
+    100046: Rectangle19_Detached
+    100048: Tube03
+    100050: TurnTableCamera
+    100052: V-Ray Dome
+    100054: V-Ray Dome1
+    100056: V-Ray Spot
+    400000: //RootNode
+    400002: BackLight
+    400004: Box01
+    400006: Box01_Detached
+    400008: Box01_Detached 1
+    400010: Box01_Detached 2
+    400012: Box01_Detached 3
+    400014: Box01_Detached_Detached
+    400016: Box01_Detached_Detached 1
+    400018: Box01_Detached_Detached 2
+    400020: Box01_Detached_Detached 3
+    400022: CameraPreset
+    400024: FillLight
+    400026: KeyLight
+    400028: LightPreset
+    400030: Object04
+    400032: Object04_MeshPart0
+    400034: Object04_MeshPart1
+    400036: Object04_MeshPart2
+    400038: Object04_MeshPart3
+    400040: Object04_MeshPart4
+    400042: Rectangle1
+    400044: Rectangle19
+    400046: Rectangle19_Detached
+    400048: Tube03
+    400050: TurnTableCamera
+    400052: V-Ray Dome
+    400054: V-Ray Dome1
+    400056: V-Ray Spot
+    2300000: Box01
+    2300002: Box01_Detached
+    2300004: Box01_Detached 1
+    2300006: Box01_Detached 2
+    2300008: Box01_Detached 3
+    2300010: Box01_Detached_Detached
+    2300012: Box01_Detached_Detached 1
+    2300014: Box01_Detached_Detached 2
+    2300016: Box01_Detached_Detached 3
+    2300018: Object04_MeshPart0
+    2300020: Object04_MeshPart1
+    2300022: Object04_MeshPart2
+    2300024: Object04_MeshPart3
+    2300026: Object04_MeshPart4
+    2300028: Rectangle1
+    2300030: Rectangle19
+    2300032: Rectangle19_Detached
+    2300034: Tube03
+    3300000: Box01
+    3300002: Box01_Detached
+    3300004: Box01_Detached 1
+    3300006: Box01_Detached 2
+    3300008: Box01_Detached 3
+    3300010: Box01_Detached_Detached
+    3300012: Box01_Detached_Detached 1
+    3300014: Box01_Detached_Detached 2
+    3300016: Box01_Detached_Detached 3
+    3300018: Object04_MeshPart0
+    3300020: Object04_MeshPart1
+    3300022: Object04_MeshPart2
+    3300024: Object04_MeshPart3
+    3300026: Object04_MeshPart4
+    3300028: Rectangle1
+    3300030: Rectangle19
+    3300032: Rectangle19_Detached
+    3300034: Tube03
+    4300000: Rectangle19
+    4300002: Rectangle1
+    4300004: Box01_Detached
+    4300006: Box01_Detached
+    4300008: Box01_Detached
+    4300010: Object04_MeshPart0
+    4300012: Object04_MeshPart1
+    4300014: Object04_MeshPart2
+    4300016: Object04_MeshPart3
+    4300018: Object04_MeshPart4
+    4300020: Box01_Detached_Detached
+    4300022: Box01_Detached_Detached
+    4300024: Rectangle19_Detached
+    4300026: Box01
+    4300028: Box01_Detached_Detached
+    4300030: Box01_Detached
+    4300032: Box01_Detached_Detached
+    4300034: Tube03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
