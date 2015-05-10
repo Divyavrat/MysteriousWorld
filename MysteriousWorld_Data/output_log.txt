@@ -6,15 +6,17 @@ Direct3D:
     Vendor:   ATI
     VRAM:     1010 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Workspace Extra\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Workspace Extra\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Workspace Extra\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Workspace Extra\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Workspace Extra\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading D:\Workspace Extra\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: D:\Workspace Extra\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Workspace Extra\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.110 seconds
+Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.183 seconds
 desktop: 1024x768 75Hz; virtual: 1024x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\System.Core.dll (this message is harmless)
