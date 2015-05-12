@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+// Script for Player Control and animations
 public class CSController : MonoBehaviour {
 
 	private Animator[] playerGroup; 
@@ -87,15 +88,15 @@ public class CSController : MonoBehaviour {
 	void ControlPlayer()
 	{
 			//Switch Camera location
-			if (Input.GetKey ("f")) {
-			cameraFar=!cameraFar;
+			if (Input.GetKeyDown ("f")) {
+						cameraFar = !cameraFar;
 			if(cameraFar){
-				transform.FindChild("Main Camera").position.Set(0f,0f,-2.5f);
+				(GameObject.FindWithTag("MainCamera")).transform.position.Set(0f,0f,-2.5f);
 			}
 			else
-				transform.FindChild("Main Camera").position.Set(0f,0f,0f);
-			}
-
+				(GameObject.FindWithTag("MainCamera")).transform.position.Set(0f,0f,0f);
+				}
+						
 			//Moves Player Foward
 			if(Input.GetKey("w"))
 				transform.Translate(Vector3.forward * Time.deltaTime * walkSpeed);
@@ -170,7 +171,6 @@ public class CSController : MonoBehaviour {
 	
 	void OnGUI()
 	{
-		
 		/*if(GUI.Button(new Rect(50,50,50,50),"<"))
 		{currentNumber--;UpdateAnimation();}
 		if(GUI.Button(new Rect(160,50,50,50),">"))

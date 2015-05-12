@@ -14,9 +14,16 @@ Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Manag
 Loading F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.183 seconds
+- Completed reload, in  0.078 seconds
 desktop: 1024x768 75Hz; virtual: 1024x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Workspace\Unity\MysteriousWorld\MysteriousWorld_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.647893 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 262.
+Total: 0.265289 ms (FindLiveObjects: 0.027990 ms CreateObjectMapping: 0.019593 ms MarkObjects: 0.206508 ms  DeleteObjects: 0.010263 ms)
+
