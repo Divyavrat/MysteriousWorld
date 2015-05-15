@@ -48,9 +48,10 @@
   <ItemGroup>
      <Compile Include="Assets\MoveMotionPack\SampleScene\Scripts\PlayManager.cs" />
      <Compile Include="Assets\Scripts\CSController.cs" />
-     <Compile Include="Assets\Scripts\Level1.cs" />
-     <Compile Include="Assets\Scripts\Level1_DetectFinish.cs" />
-     <Compile Include="Assets\Scripts\Level2.cs" />
+     <Compile Include="Assets\Scripts\Designer.cs" />
+     <Compile Include="Assets\Scripts\DetectFinish.cs" />
+     <Compile Include="Assets\Scripts\Gateway.cs" />
+     <Compile Include="Assets\Scripts\Section.cs" />
      <None Include="Assets\Models\Materials\Velvet\Velvet.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/SoftwareInstalled/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

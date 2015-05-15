@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 9581c13d26b2a5b468818ec760570146
+timeCreated: 1431644141
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: C_Antenna
+    100002: C_Eyes
+    100004: C_FrontDigits
+    100006: C_FrontLeg
+    100008: C_FrontThighs
+    100010: C_FrontWrist
+    100012: C_FrontWristLower
+    100014: C_Head
+    100016: C_HindDigits
+    100018: C_HindLeg
+    100020: C_HindThighs
+    100022: C_HindWrist
+    100024: C_HindWristLower
+    100026: C_MiddleDigits
+    100028: C_MiddleLeg
+    100030: C_MiddleThighs
+    100032: C_MiddleWrist
+    100034: C_MiddleWristLower
+    100036: C_Mouth
+    100038: C_Neck
+    100040: L_Shell
+    100042: Ladybird
+    100044: //RootNode
+    100046: Plane
+    100048: R_Shell
+    400000: C_Antenna
+    400002: C_Eyes
+    400004: C_FrontDigits
+    400006: C_FrontLeg
+    400008: C_FrontThighs
+    400010: C_FrontWrist
+    400012: C_FrontWristLower
+    400014: C_Head
+    400016: C_HindDigits
+    400018: C_HindLeg
+    400020: C_HindThighs
+    400022: C_HindWrist
+    400024: C_HindWristLower
+    400026: C_MiddleDigits
+    400028: C_MiddleLeg
+    400030: C_MiddleThighs
+    400032: C_MiddleWrist
+    400034: C_MiddleWristLower
+    400036: C_Mouth
+    400038: C_Neck
+    400040: L_Shell
+    400042: Ladybird
+    400044: //RootNode
+    400046: Plane
+    400048: R_Shell
+    2300000: C_Antenna
+    2300002: C_Eyes
+    2300004: C_FrontDigits
+    2300006: C_FrontLeg
+    2300008: C_FrontThighs
+    2300010: C_FrontWrist
+    2300012: C_FrontWristLower
+    2300014: C_Head
+    2300016: C_HindDigits
+    2300018: C_HindLeg
+    2300020: C_HindThighs
+    2300022: C_HindWrist
+    2300024: C_HindWristLower
+    2300026: C_MiddleDigits
+    2300028: C_MiddleLeg
+    2300030: C_MiddleThighs
+    2300032: C_MiddleWrist
+    2300034: C_MiddleWristLower
+    2300036: C_Mouth
+    2300038: C_Neck
+    2300040: L_Shell
+    2300042: Ladybird
+    2300044: Plane
+    2300046: R_Shell
+    3300000: C_Antenna
+    3300002: C_Eyes
+    3300004: C_FrontDigits
+    3300006: C_FrontLeg
+    3300008: C_FrontThighs
+    3300010: C_FrontWrist
+    3300012: C_FrontWristLower
+    3300014: C_Head
+    3300016: C_HindDigits
+    3300018: C_HindLeg
+    3300020: C_HindThighs
+    3300022: C_HindWrist
+    3300024: C_HindWristLower
+    3300026: C_MiddleDigits
+    3300028: C_MiddleLeg
+    3300030: C_MiddleThighs
+    3300032: C_MiddleWrist
+    3300034: C_MiddleWristLower
+    3300036: C_Mouth
+    3300038: C_Neck
+    3300040: L_Shell
+    3300042: Ladybird
+    3300044: Plane
+    3300046: R_Shell
+    4300000: C_Antenna
+    4300002: C_Eyes
+    4300004: C_FrontDigits
+    4300006: C_FrontLeg
+    4300008: C_FrontThighs
+    4300010: C_FrontWrist
+    4300012: C_FrontWristLower
+    4300014: C_Head
+    4300016: C_HindDigits
+    4300018: C_HindLeg
+    4300020: C_HindThighs
+    4300022: C_HindWrist
+    4300024: C_HindWristLower
+    4300026: C_MiddleDigits
+    4300028: C_MiddleLeg
+    4300030: C_MiddleThighs
+    4300032: C_MiddleWrist
+    4300034: C_MiddleWristLower
+    4300036: C_Mouth
+    4300038: C_Neck
+    4300040: L_Shell
+    4300042: Ladybird
+    4300044: Plane
+    4300046: R_Shell
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

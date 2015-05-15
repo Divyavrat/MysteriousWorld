@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CharacterMove.js" />
+     <Compile Include="Assets\Scripts\FadeOut.js" />
      <Compile Include="Assets\Scripts\GameFinish.js" />
      <None Include="Assets\Models\Materials\Velvet\Velvet.shader" />
  <Reference Include="UnityEngine.UI">

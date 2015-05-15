@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: c8e44228dfb4c6a4e9385f7a967c2e32
+timeCreated: 1431650340
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box1
+    100002: Box10
+    100004: Box11
+    100006: Box12
+    100008: Box2
+    100010: Box3
+    100012: Box4
+    100014: Box5
+    100016: Box5_MeshPart0
+    100018: Box5_MeshPart1
+    100020: Box6
+    100022: Box6_MeshPart0
+    100024: Box6_MeshPart1
+    100026: Box7
+    100028: Box8
+    100030: Box9
+    100032: Merged_Meshes
+    100034: Merged_Meshes1
+    100036: Plane
+    100038: //RootNode
+    100040: Torus
+    100042: Torus1
+    100044: Torus2
+    100046: Torus3
+    100048: Torus4
+    400000: Box1
+    400002: Box10
+    400004: Box11
+    400006: Box12
+    400008: Box2
+    400010: Box3
+    400012: Box4
+    400014: Box5
+    400016: Box5_MeshPart0
+    400018: Box5_MeshPart1
+    400020: Box6
+    400022: Box6_MeshPart0
+    400024: Box6_MeshPart1
+    400026: Box7
+    400028: Box8
+    400030: Box9
+    400032: Merged_Meshes
+    400034: Merged_Meshes1
+    400036: Plane
+    400038: //RootNode
+    400040: Torus
+    400042: Torus1
+    400044: Torus2
+    400046: Torus3
+    400048: Torus4
+    2300000: Box1
+    2300002: Box10
+    2300004: Box11
+    2300006: Box12
+    2300008: Box2
+    2300010: Box3
+    2300012: Box4
+    2300014: Box5_MeshPart0
+    2300016: Box5_MeshPart1
+    2300018: Box6_MeshPart0
+    2300020: Box6_MeshPart1
+    2300022: Box7
+    2300024: Box8
+    2300026: Box9
+    2300028: Merged_Meshes
+    2300030: Merged_Meshes1
+    2300032: Plane
+    2300034: Torus
+    2300036: Torus1
+    2300038: Torus2
+    2300040: Torus3
+    2300042: Torus4
+    3300000: Box1
+    3300002: Box10
+    3300004: Box11
+    3300006: Box12
+    3300008: Box2
+    3300010: Box3
+    3300012: Box4
+    3300014: Box5_MeshPart0
+    3300016: Box5_MeshPart1
+    3300018: Box6_MeshPart0
+    3300020: Box6_MeshPart1
+    3300022: Box7
+    3300024: Box8
+    3300026: Box9
+    3300028: Merged_Meshes
+    3300030: Merged_Meshes1
+    3300032: Plane
+    3300034: Torus
+    3300036: Torus1
+    3300038: Torus2
+    3300040: Torus3
+    3300042: Torus4
+    4300000: Box1
+    4300002: Box10
+    4300004: Box11
+    4300006: Box12
+    4300008: Box2
+    4300010: Box3
+    4300012: Box4
+    4300014: Box5_MeshPart0
+    4300016: Box5_MeshPart1
+    4300018: Box6_MeshPart0
+    4300020: Box6_MeshPart1
+    4300022: Box7
+    4300024: Box8
+    4300026: Box9
+    4300028: Merged_Meshes
+    4300030: Merged_Meshes1
+    4300032: Plane
+    4300034: Torus
+    4300036: Torus1
+    4300038: Torus2
+    4300040: Torus3
+    4300042: Torus4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
